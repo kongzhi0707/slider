@@ -4,6 +4,8 @@
 
 <img src="https://img2022.cnblogs.com/blog/561794/202203/561794-20220306164505872-563791091.png" /> <br/>
 
+<a href="https://kongzhi0707.github.io/slider/dist/index.html">点击查看效果</a>
+
 如上，有故障前/最初告警/上盯屏/最近告警 四个轴。或更多轴都可以的，因此我们需要把他们均分成n等分。目前使用到的是 antd 中的slider组件，如下：
 <a href="https://ant.design/components/slider-cn/">https://ant.design/components/slider-cn/</a> 
 基本代码如下：
